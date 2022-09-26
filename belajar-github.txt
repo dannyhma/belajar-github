@@ -1,4 +1,4 @@
 Belajar github dari Web Programming Unpas
 Resolusi saya :
 - Belajar Github dalam 1 minggu
-- Belajar Javascript dalam 2 bulan
+- Belajar Javascript dalam 40 hari
